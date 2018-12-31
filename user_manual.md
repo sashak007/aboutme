@@ -29,7 +29,7 @@ I am always interested in feedback whenever it may come up! Constructive feedbac
 ## My Interests.
 I am the human companion to two beautiful feline babes.
 
-<img src="./images/bebes.jpg" style="padding-right:10px; width:300px;"><img src="./images/bebis.jpg" style="width:300px;">
+<img src="./images/bebes.jpg" width="300px" style="padding-right:10px;"><img src="./images/bebis.jpg" width="300px">
 
 
 I like to travel and the more I travel the more I’m convinced that turbulence will be the cause of my demise. 
